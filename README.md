@@ -27,7 +27,7 @@ Aplicația mobilă face parte dintr-un ecosistem complet (Web + Mobile) și comu
 
 ---
 
-## 🛠️ Arhitectură
+##  Arhitectură
 
 Aplicația respectă arhitectura oficială **MVVM (Model - View - ViewModel)** și principiile *Clean Architecture*:
 
